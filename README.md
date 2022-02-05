@@ -4,3 +4,5 @@
 
 ## Each folder has a unique section name and inside it has code files.
 
+## There are lot of templates which allow you to use it with any other project easily.
+
