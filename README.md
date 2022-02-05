@@ -1,6 +1,6 @@
 # Machine-Larning
 
-## In this repository ı added codes that ı wrote at my machine learning education.
+## This repository contains codes that ı wrote at my machine learning education.
 
 ## Each folder has a section name and inside it has code files.
 
